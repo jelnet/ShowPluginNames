@@ -1,0 +1,2 @@
+# ShowPluginNames
+WordPress plugin
